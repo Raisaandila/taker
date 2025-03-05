@@ -1184,3 +1184,12 @@
 3/5/2025 | 8:25:50 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/5/2025 | 8:25:50 AM | INFO | Trying to activate mining on-chain for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
 3/5/2025 | 8:26:02 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc9eaf969b6ddb348f746c9325a0ba87dd5ac6ce7a0b2caabe9d50353b75bbef1 
+3/5/2025 | 12:38:07 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/5/2025 | 12:38:08 PM | INFO | Start process for wallet 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+3/5/2025 | 12:38:09 PM | INFO | Trying To Login for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+3/5/2025 | 12:38:10 PM | INFO | Login successful... 
+3/5/2025 | 12:38:10 PM | INFO | Trying to check user info... 
+3/5/2025 | 12:38:10 PM | INFO | User ID: 98854231 | Twitter: @raisaandila | Total Points: 504000 
+3/5/2025 | 12:38:10 PM | INFO | Trying to check user miner status... 
+3/5/2025 | 12:38:11 PM | INFO | Last mining time: 3/5/2025, 8:25:57 AM
+3/5/2025 | 12:38:11 PM | WARN | Mining already started, next mining time is: 3/6/2025, 8:25:57 AM
