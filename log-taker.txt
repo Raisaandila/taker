@@ -4960,3 +4960,15 @@
 5/12/2025 | 1:47:58 AM | INFO | Trying to activate mining on-chain for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
 5/12/2025 | 1:48:06 AM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86e82046555830f4240832dc6c082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a012aef151a486e1236c86aa6a5f20fd16192b23a7e5233848533ee30377f5796ba050af462f6de511c5a1dbe721d678aa271347a20a08423a98b922aa3e7cc903c3"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 5/12/2025 | 1:48:06 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/12/2025 | 4:25:59 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 4:25:59 AM | INFO | Start process for wallet 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/12/2025 | 4:26:00 AM | INFO | Trying To Login for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/12/2025 | 4:26:01 AM | INFO | Login successful... 
+5/12/2025 | 4:26:01 AM | INFO | Trying to check user info... 
+5/12/2025 | 4:26:02 AM | INFO | User ID: 98854231 | Twitter: @raisaandila | Total Points: 1922680 
+5/12/2025 | 4:26:02 AM | INFO | Trying to check user miner status... 
+5/12/2025 | 4:26:03 AM | INFO | Last mining time: 5/10/2025, 8:20:33 PM
+5/12/2025 | 4:26:03 AM | INFO | Trying to start Mining for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/12/2025 | 4:26:07 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/12/2025 | 4:26:07 AM | INFO | Trying to activate mining on-chain for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/12/2025 | 4:26:30 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x48474e79ae0c129b2d31cc33c7490ab92980d757af27701466ac6686a22ba07f 
