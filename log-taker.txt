@@ -5179,3 +5179,15 @@
 5/15/2025 | 4:27:28 PM | INFO | Trying to activate mining on-chain for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
 5/15/2025 | 4:27:52 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
 5/15/2025 | 4:27:52 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/15/2025 | 8:23:47 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/15/2025 | 8:23:47 PM | INFO | Start process for wallet 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/15/2025 | 8:23:47 PM | INFO | Trying To Login for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/15/2025 | 8:23:48 PM | INFO | Login successful... 
+5/15/2025 | 8:23:48 PM | INFO | Trying to check user info... 
+5/15/2025 | 8:23:48 PM | INFO | User ID: 98854231 | Twitter: @raisaandila | Total Points: 1994680 
+5/15/2025 | 8:23:48 PM | INFO | Trying to check user miner status... 
+5/15/2025 | 8:23:49 PM | INFO | Last mining time: 5/14/2025, 4:26:48 PM
+5/15/2025 | 8:23:49 PM | INFO | Trying to start Mining for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/15/2025 | 8:23:50 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/15/2025 | 8:23:50 PM | INFO | Trying to activate mining on-chain for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/15/2025 | 8:23:55 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x60e25ceea0ce6cd2a99799d1391cca731869d1f4e86eddf8641103a6752cfedc 
