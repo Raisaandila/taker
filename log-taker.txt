@@ -5394,3 +5394,15 @@
 5/19/2025 | 8:30:25 AM | INFO | Trying to activate mining on-chain for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
 5/19/2025 | 8:30:27 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5b","from":"0x19a611681226c161fa7d91ce57d83edc4b5cb39f","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/19/2025 | 8:30:27 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 12:44:22 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 12:44:22 PM | INFO | Start process for wallet 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/19/2025 | 12:44:23 PM | INFO | Trying To Login for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/19/2025 | 12:44:24 PM | INFO | Login successful... 
+5/19/2025 | 12:44:24 PM | INFO | Trying to check user info... 
+5/19/2025 | 12:44:25 PM | INFO | User ID: 98854231 | Twitter: @raisaandila | Total Points: 2066680 
+5/19/2025 | 12:44:25 PM | INFO | Trying to check user miner status... 
+5/19/2025 | 12:44:26 PM | INFO | Last mining time: 5/18/2025, 1:50:36 AM
+5/19/2025 | 12:44:26 PM | INFO | Trying to start Mining for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/19/2025 | 12:44:26 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/19/2025 | 12:44:26 PM | INFO | Trying to activate mining on-chain for wallet: 0x19a611681226c161FA7D91cE57d83Edc4b5Cb39f 
+5/19/2025 | 12:44:34 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc7ac70bc3a314625981fa79e0a0e4061782175facae3b73979eac465b9359607 
